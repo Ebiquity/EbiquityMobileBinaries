@@ -4,8 +4,8 @@ Apks for the Heimdall Project
 ## Install ADB tools on your computer and then
 * Run:
 ```shell
-adb install AndroidContentParserWithoutPermission.apk
 adb install COMMANDWithoutPermission.apk
+adb install AndroidContentParserWithoutPermission.apk
 ```
 * Open COMMAND application
 * Open Parser application
