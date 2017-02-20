@@ -1,5 +1,6 @@
-# HeimdallApks
-Apks for the Heimdall Project
+# Ebiquity mobile binaries
+
+Apks for the Mithril and Heimdall projects
 
 ## Install ADB tools on your computer and then
 * Run:
